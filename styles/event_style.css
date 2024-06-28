@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cardSection{
+    display: flex;
+}
+
+.body{
+    background-color: #F5F5F5;
+}
+
+.card > img {
+    color: #12ACCD;
+    width: 375px;
+    height: 565px;
+    justify-content: space-between;
+}
+
+.card{
+    text-align: right;
+    box-sizing: border-box;
+    font-family: FormaDJRCyrillicBanner;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: right;
+    color: #12ACCD;
+}
+
+.card > p{
+    font-weight: 50px;
+}
+
+.card > h3{   
+    max-width: 375px;
+    font-family: FormaDJRCyrillicBanner;
+    font-weight: bold;
+    font-size: 32px;
+    padding: 0;
+    margin: 0;
+    line-height: 38px;
+    text-align: right;
+    color: #12ACCD;
+}

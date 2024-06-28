@@ -1,0 +1,372 @@
+@font-face {
+    src: url('fonts/FormaDJRCyrillicVariable-VF-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicVariable-VF-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicVariable';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicMicro-ExtraLight-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicMicro-ExtraLight-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicMicro';
+    font-style: normal;
+    font-weight: 275;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicMicro-Light-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicMicro-Light-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicMicro';
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicMicro-Regular-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicMicro-Regular-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicMicro';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicMicro-Medium-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicMicro-Medium-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicMicro';
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicMicro-Bold-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicMicro-Bold-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicMicro';
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicText-ExtraLight-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicText-ExtraLight-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicText';
+    font-style: normal;
+    font-weight: 275;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicText-Light-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicText-Light-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicText';
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicText-Regular-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicText-Regular-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicText';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicText-Medium-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicText-Medium-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicText';
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicText-Bold-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicText-Bold-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicText';
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDeck-ExtraLight-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDeck-ExtraLight-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDeck';
+    font-style: normal;
+    font-weight: 275;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDeck-Light-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDeck-Light-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDeck';
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDeck-Regular-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDeck-Regular-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDeck';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDeck-Medium-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDeck-Medium-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDeck';
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDeck-Bold-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDeck-Bold-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDeck';
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDisplay-ExtraLight-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDisplay-ExtraLight-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDisplay';
+    font-style: normal;
+    font-weight: 275;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDisplay-Light-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDisplay-Light-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDisplay';
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDisplay-Regular-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDisplay-Regular-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDisplay';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDisplay-Medium-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDisplay-Medium-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDisplay';
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicDisplay-Bold-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicDisplay-Bold-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicDisplay';
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicBanner-ExtraLight-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicBanner-ExtraLight-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicBanner';
+    font-style: normal;
+    font-weight: 275;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicBanner-Light-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicBanner-Light-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicBanner';
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicBanner-Regular-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicBanner-Regular-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicBanner';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicBanner-Medium-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicBanner-Medium-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicBanner';
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    src: url('fonts/FormaDJRCyrillicBanner-Bold-Testing.woff2') format("woff2"),
+        url('fonts/FormaDJRCyrillicBanner-Bold-Testing.woff') format("woff");
+    font-family: 'FormaDJRCyrillicBanner';
+    font-style: normal;
+    font-weight: bold;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: FormaDJRCyrillicBanner;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6DFFED;
+    color: #38DBFF;
+    background: linear-gradient(to top, white, #6DFFED 90%, white);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+}
+
+.sidebar {
+    padding-top: 100px;
+    background: linear-gradient(to right, white 5%, rgb(0 0 0 / 0), white);
+    justify-content: center;
+    width: 13%;
+    min-width: 100px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    font-style: bold;
+
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    font-family: 'Forma DJR Cyrilic Variable';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+        color: #12ACCD;
+}
+
+.content {
+    flex: 1;
+    background-image: url('./images/grid-x.png'), url('./images/grid-y.png');
+}
+
+.main{
+    background: 
+    linear-gradient(to top, white 10%, rgba(0, 0, 0, 0), white),
+    linear-gradient(to left, white, rgba(0, 0, 0, 0) 5%);
+    content: '';
+    z-index: 1;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    font-size: 100px;
+    color: #38DBFF;
+    text-align: right;
+    padding-right: 20%;
+    margin-bottom: 0;
+    padding-top: 10%;
+    box-sizing: content-box;
+        width: 1240px;
+        height: 480px;
+        left: -6px;
+        top: 151px;
+        font-weight: 200;
+        font-size: 228px;
+        line-height: 70%;
+}
+
+.title >p{
+    display: inline-block
+}
+
+/* mark {
+    color: #38DBFF;
+    margin: 0%;
+    padding: 0;
+} */
+
+.images-wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+.images {
+    position: relative;
+    bottom: 170px;
+    left: 85px;
+    display: flex;
+    height: 650px;
+    box-sizing: content-box;
+    /* animation: scroll 30s linear infinite; */
+}
+
+
+.footer {
+    background-color: #E6FFFF;
+    width: 100%;
+}
+
+.footer-text > p{
+    font-size: 30px;
+    background-color: #10F2E4;
+    color: white;
+    white-space: pre;
+    font-family: FormaDJRCyrillicBanner;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding:  0;
+}
+
+.contact-info {
+    font-size: 24px;
+    color: #10F2E4;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 10px;
+}
+
+.nav-links {
+    margin-top: 30%;
+    list-style: none;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-bottom: 10px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #12ACCD;
+    font-size: 18px;
+}
+
+.buy-ticket {
+    margin-top: 20px;
+    padding: 10px;
+    color: #12ACCD;
+    box-shadow: 0 1px 10px;
+    border-radius: 60px;
+    background-color: #FFFF00;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    box-sizing: content-box;
+    width: 105px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 20px;
+}
